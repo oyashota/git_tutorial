@@ -9,3 +9,5 @@ print('hello world')
 print('hello english')
 print('hello git')
 print('git diff')
+
+print('git commit -- amend')
